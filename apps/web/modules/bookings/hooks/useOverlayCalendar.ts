@@ -28,7 +28,7 @@ export const useOverlayCalendar = ({
     "toggledConnectedCalendars",
     []
   );
-  const [initalised, setInitalised] = useState(false);
+  const [initialised, setInitalised] = useState(false);
   const [continueWithProvider, setContinueWithProvider] = useOverlayCalendarStore(
     (state) => [state.continueWithProviderModal, state.setContinueWithProviderModal],
     shallow
@@ -60,7 +60,7 @@ export const useOverlayCalendar = ({
   }, [overlayBusyDates]);
 
   useEffect(() => {
-    if (connectedCalendars && set.size === 0 && !initalised) {
+    if (connectedCalendars && set.size === 0 && !initialised) {
       connectedCalendars.forEach((item) => {
         item.calendars?.forEach((cal) => {
           const id = { credentialId: item.credentialId, externalId: cal.externalId };
@@ -72,7 +72,7 @@ export const useOverlayCalendar = ({
       setInitalised(true);
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [hasItem, set, initalised]);
+  }, [hasItem, set, initialised]);
 
   const handleToggleConnectedCalendar = (externalCalendarId: string, credentialId: number): void => {
     const calendarsToLoad = toggleValue({

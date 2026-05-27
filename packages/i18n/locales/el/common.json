@@ -527,7 +527,7 @@
   "event_is_in_the_past": "Η εκδήλωση είναι στο παρελθόν",
   "cancelling_event_recurring": "Η εκδήλωση είναι μέρος μιας επαναλαμβανόμενης σειράς.",
   "cancelling_all_recurring": "Αυτές είναι όλες οι υπόλοιπες εκδηλώσεις της επαναλαμβανόμενης σειράς.",
-  "error_with_status_code_occured": "Παρουσιάστηκε ένα σφάλμα με κωδικό κατάστασης {{status}}.",
+  "error_with_status_code_occurred": "Παρουσιάστηκε ένα σφάλμα με κωδικό κατάστασης {{status}}.",
   "error_event_type_url_duplicate": "Υπάρχει ήδη ένας τύπος εκδήλωσης με αυτό το URL.",
   "error_event_type_unauthorized_create": "Δεν έχετε δικαίωμα να δημιουργήσετε αυτή την εκδήλωση",
   "error_event_type_unauthorized_update": "Δεν έχετε δικαίωμα να επεξεργαστείτε αυτή την εκδήλωση",

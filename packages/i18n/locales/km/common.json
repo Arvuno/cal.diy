@@ -527,7 +527,7 @@
   "event_is_in_the_past": "ព្រឹត្តិការណ៍នេះបានកន្លងផុតទៅហើយ",
   "cancelling_event_recurring": "ព្រឹត្តិការណ៍នេះគឺជាដំណាក់កាលមួយនៃព្រឹត្តិការណ៍ដែលកើតឡើងជាបន្តបន្ទាប់។",
   "cancelling_all_recurring": "ទាំងអស់នេះគឺជាដំណាក់កាលដែលនៅសល់នៃព្រឹត្តិការណ៍ដែលកើតឡើងជាបន្តបន្ទាប់។",
-  "error_with_status_code_occured": "មានកំហុសមួយជាមួយលេខកូដស្ថានភាព {{status}} បានកើតឡើង។",
+  "error_with_status_code_occurred": "មានកំហុសមួយជាមួយលេខកូដស្ថានភាព {{status}} បានកើតឡើង។",
   "error_event_type_url_duplicate": "មានប្រភេទព្រឹត្តិការណ៍មួយជាមួយ URL នេះមានរួចហើយ។",
   "error_event_type_unauthorized_create": "អ្នកមិនអាចបង្កើតព្រឹត្តិការណ៍នេះបានទេ",
   "error_event_type_unauthorized_update": "អ្នកមិនអាចកែប្រែព្រឹត្តិការណ៍នេះបានទេ",

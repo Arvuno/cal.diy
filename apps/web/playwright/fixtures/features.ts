@@ -8,14 +8,14 @@ type FeatureSlugs = keyof AppFlags;
 
 export const createFeatureFixture = (page: Page) => {
   const store = { features: [], page } as { features: Feature[]; page: typeof page };
-  let initalFeatures: Feature[] = [];
+  let initialFeatures: Feature[] = [];
 
   // IIF to add all features to store on creation
   return {
     init: async () => {
       const features = await prisma.feature.findMany();
       store.features = features;
-      initalFeatures = features;
+      initialFeatures = features;
       return features;
     },
     getAll: () => store.features,
@@ -45,6 +45,6 @@ export const createFeatureFixture = (page: Page) => {
         await prisma.feature.update({ where: { slug }, data: { enabled } });
       }
     },
-    reset: () => (store.features = initalFeatures),
+    reset: () => (store.features = initialFeatures),
   };
 };

@@ -527,7 +527,7 @@
   "event_is_in_the_past": "Tədbir keçmişdədir",
   "cancelling_event_recurring": "Tədbir təkrarlanan tədbirin bir hissəsidir.",
   "cancelling_all_recurring": "Bunlar təkrarlanan tədbirin qalan bütün hissələridir.",
-  "error_with_status_code_occured": "{{status}} status kodu ilə səhv baş verdi.",
+  "error_with_status_code_occurred": "{{status}} status kodu ilə səhv baş verdi.",
   "error_event_type_url_duplicate": "Bu URL ilə tədbir növü artıq mövcuddur.",
   "error_event_type_unauthorized_create": "Bu tədbiri yaratmaq səlahiyyətiniz yoxdur",
   "error_event_type_unauthorized_update": "Bu tədbiri redaktə etmək səlahiyyətiniz yoxdur",

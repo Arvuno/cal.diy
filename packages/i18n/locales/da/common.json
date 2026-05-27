@@ -527,7 +527,7 @@
   "event_is_in_the_past": "Begivenheden er i fortiden",
   "cancelling_event_recurring": "Begivenheden er en forekomst af en tilbagevendende begivenhed.",
   "cancelling_all_recurring": "Disse er alle resterende forekomster i den tilbagevendende begivenhed.",
-  "error_with_status_code_occured": "Der opstod en fejl med statuskoden {{status}}.",
+  "error_with_status_code_occurred": "Der opstod en fejl med statuskoden {{status}}.",
   "error_event_type_url_duplicate": "En begivenhedstype med denne URL findes allerede.",
   "error_event_type_unauthorized_create": "Du har ikke tilladelse til at oprette denne begivenhed",
   "error_event_type_unauthorized_update": "Du har ikke tilladelse til at redigere denne begivenhed",

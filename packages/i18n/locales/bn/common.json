@@ -527,7 +527,7 @@
   "event_is_in_the_past": "ঘটনাটি অতীতে",
   "cancelling_event_recurring": "ইভেন্টটি পুনরাবৃত্ত ইভেন্টের একটি উদাহরণ।",
   "cancelling_all_recurring": "এগুলি পুনরাবৃত্তি ইভেন্টে বাকি সমস্ত উদাহরণ।",
-  "error_with_status_code_occured": "স্থিতি কোড সহ একটি ত্রুটি {{status}} ঘটেছে।",
+  "error_with_status_code_occurred": "স্থিতি কোড সহ একটি ত্রুটি {{status}} ঘটেছে।",
   "error_event_type_url_duplicate": "এই ইউআরএল সহ একটি ইভেন্টের ধরণ ইতিমধ্যে বিদ্যমান।",
   "error_event_type_unauthorized_create": "আপনি এই ইভেন্টটি তৈরি করতে সক্ষম নন",
   "error_event_type_unauthorized_update": "আপনি এই ইভেন্টটি সম্পাদনা করতে সক্ষম নন",

@@ -43,7 +43,7 @@ const initialState: UserTableState = {
   },
 };
 
-const initalColumnVisibility = {
+const initialColumnVisibility = {
   select: true,
   member: true,
   role: true,
@@ -223,7 +223,7 @@ function UserListTableContent({ oAuthClientId }: PlatformManagedUsersTableProps)
     debugTable: true,
     manualPagination: true,
     initialState: {
-      columnVisibility: initalColumnVisibility,
+      columnVisibility: initialColumnVisibility,
       columnPinning: {
         left: ["select", "member"],
       },

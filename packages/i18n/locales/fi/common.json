@@ -527,7 +527,7 @@
   "event_is_in_the_past": "Tapahtuma on menneisyydessä",
   "cancelling_event_recurring": "Tapahtuma on osa toistuvaa tapahtumasarjaa.",
   "cancelling_all_recurring": "Nämä ovat kaikki jäljellä olevat toistuvat tapahtumat.",
-  "error_with_status_code_occured": "Tapahtui virhe statuskoodilla {{status}}.",
+  "error_with_status_code_occurred": "Tapahtui virhe statuskoodilla {{status}}.",
   "error_event_type_url_duplicate": "Tämä URL on jo käytössä toisella tapahtumatyypillä.",
   "error_event_type_unauthorized_create": "Sinulla ei ole oikeutta luoda tätä tapahtumaa",
   "error_event_type_unauthorized_update": "Sinulla ei ole oikeutta muokata tätä tapahtumaa",

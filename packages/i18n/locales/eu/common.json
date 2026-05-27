@@ -527,7 +527,7 @@
   "event_is_in_the_past": "Gertaera iraganekoa da",
   "cancelling_event_recurring": "Gertaera hau gertaera errepikakorraren instantzia bat da.",
   "cancelling_all_recurring": "Hauek dira gertaera errepikakorretik geratzen diren instantzia guztiak.",
-  "error_with_status_code_occured": "{{status}} egoera-kodea duen errore bat gertatu da.",
+  "error_with_status_code_occurred": "{{status}} egoera-kodea duen errore bat gertatu da.",
   "error_event_type_url_duplicate": "URL hau duen gertaera mota bat existitzen da dagoeneko.",
   "error_event_type_unauthorized_create": "Ezin duzu gertaera hau sortu",
   "error_event_type_unauthorized_update": "Ezin duzu gertaera hau editatu",

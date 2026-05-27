@@ -527,7 +527,7 @@
   "event_is_in_the_past": "Üritus on minevik",
   "cancelling_event_recurring": "Sündmus on korduva sündmuse üks juhtum.",
   "cancelling_all_recurring": "Need on kõik korduva sündmuse ülejäänud juhtumid.",
-  "error_with_status_code_occured": "Tekkis viga olekukoodiga {{status}}.",
+  "error_with_status_code_occurred": "Tekkis viga olekukoodiga {{status}}.",
   "error_event_type_url_duplicate": "Selle URL-iga sündmuse tüüp on juba olemas.",
   "error_event_type_unauthorized_create": "Te ei saa seda sündmust luua",
   "error_event_type_unauthorized_update": "Te ei saa seda sündmust redigeerida",
