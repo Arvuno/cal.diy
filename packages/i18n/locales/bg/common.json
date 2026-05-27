@@ -527,7 +527,7 @@
   "event_is_in_the_past": "Събитието е в миналото",
   "cancelling_event_recurring": "Това събитие е част от поредица повтарящи се събития.",
   "cancelling_all_recurring": "Това са всички оставащи събития от повтарящата се среща.",
-  "error_with_status_code_occured": "Възникна грешка със статус код {{status}}.",
+  "error_with_status_code_occurred": "Възникна грешка със статус код {{status}}.",
   "error_event_type_url_duplicate": "Вече съществува тип събитие с този URL адрес.",
   "error_event_type_unauthorized_create": "Нямате права да създадете това събитие",
   "error_event_type_unauthorized_update": "Нямате права да редактирате това събитие",

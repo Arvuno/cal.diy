@@ -527,7 +527,7 @@
   "event_is_in_the_past": "L'esdeveniment és en el passat",
   "cancelling_event_recurring": "L'esdeveniment és una instància d'un esdeveniment recurrent.",
   "cancelling_all_recurring": "Aquestes són totes les instàncies restants de l'esdeveniment recurrent.",
-  "error_with_status_code_occured": "S'ha produït un error amb el codi d'estat {{status}}.",
+  "error_with_status_code_occurred": "S'ha produït un error amb el codi d'estat {{status}}.",
   "error_event_type_url_duplicate": "Ja existeix un tipus d'esdeveniment amb aquesta URL.",
   "error_event_type_unauthorized_create": "No podeu crear aquest esdeveniment",
   "error_event_type_unauthorized_update": "No podeu editar aquest esdeveniment",

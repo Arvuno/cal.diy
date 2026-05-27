@@ -527,7 +527,7 @@
   "event_is_in_the_past": "Udalosť je v minulosti",
   "cancelling_event_recurring": "Táto udalosť je súčasťou opakujúcej sa série.",
   "cancelling_all_recurring": "Toto sú všetky zostávajúce termíny v opakujúcej sa udalosti.",
-  "error_with_status_code_occured": "Vyskytla sa chyba so stavovým kódom {{status}}.",
+  "error_with_status_code_occurred": "Vyskytla sa chyba so stavovým kódom {{status}}.",
   "error_event_type_url_duplicate": "Typ udalosti s touto URL už existuje.",
   "error_event_type_unauthorized_create": "Nemáte oprávnenie vytvoriť túto udalosť",
   "error_event_type_unauthorized_update": "Nemáte oprávnenie upraviť túto udalosť",

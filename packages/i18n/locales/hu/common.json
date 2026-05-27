@@ -527,7 +527,7 @@
   "event_is_in_the_past": "Az esemény a múltban van",
   "cancelling_event_recurring": "Ez az esemény része egy ismétlődő eseménynek.",
   "cancelling_all_recurring": "Ez az összes hátralévő esemény az ismétlőd eseményben.",
-  "error_with_status_code_occured": "Hiba történt a(z) {{status}} állapotkóddal.",
+  "error_with_status_code_occurred": "Hiba történt a(z) {{status}} állapotkóddal.",
   "error_event_type_url_duplicate": "Ezzel az URL-lel már létezik eseménytípus.",
   "error_event_type_unauthorized_create": "Nem tudja létrehozni ezt az eseményt",
   "error_event_type_unauthorized_update": "Ezt az eseményt nem tudja szerkeszteni",
